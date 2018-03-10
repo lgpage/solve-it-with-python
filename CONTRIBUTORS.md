@@ -1,5 +1,4 @@
-Contributor List
-================
+# Contributor List
 
 Firstly a special thank you to Allen Downey and all the contributors to [Think Python 2e](http://greenteapress.com/wp/think-python-2e/), as some content of [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) has been included in this book.
 
